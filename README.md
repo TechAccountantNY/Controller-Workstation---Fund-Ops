@@ -4,6 +4,12 @@
 
 One month of a fund-operations inbox for the (fabricated) Brindlewood complex — three feeders, one master, eight managers — ingested, tied out, rolled forward and triaged, with every judgment call left to a person and recorded.
 
+## Open the workstation (no install)
+
+Download **[`workstation.html`](workstation.html)** (on GitHub: open the file, then the download button) and double-click it to open it in any browser. It is the interactive Fund Ops workstation for the September close: the 17 ranked exceptions, each with a Record decision form (disposition, name, required rationale), an append-only decision log with CSV export, and the roll-forward, capital activity, arrivals, inbox and assumptions views. It opens with the Controller's dispositions already recorded; decisions you add are saved in your browser.
+
+The same figures are produced from the raw pack by the Python code below (`python -m fundops serve` runs the full app locally).
+
 | Deliverable | Where |
 |---|---|
 | Part 1 — roll-forward, capital activity state, ranked exceptions | [`outputs/PART1_RECONSTRUCTION.md`](outputs/PART1_RECONSTRUCTION.md) (+ CSVs in `outputs/`) |

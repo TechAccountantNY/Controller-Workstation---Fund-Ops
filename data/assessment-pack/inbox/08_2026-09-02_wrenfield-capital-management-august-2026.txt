@@ -1,0 +1,12 @@
+From: clientreporting@wrenfieldcm.example
+To: operations@brindlewood.example
+Date: 2026-09-02
+Subject: Wrenfield Capital Management — August 2026 final statement
+
+August 2026 final for the Brindlewood sleeve:
+
+Opening NAV $8,684,263 | Net return 0.40% | Closing NAV $8,719,000
+
+Please note our reporting team is transitioning systems this quarter.
+
+Wrenfield Client Reporting

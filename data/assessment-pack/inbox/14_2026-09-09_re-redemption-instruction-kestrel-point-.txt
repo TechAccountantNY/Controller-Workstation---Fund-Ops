@@ -1,0 +1,11 @@
+From: transferagency@lanyardfs.example
+To: operations@brindlewood.example
+Date: 2026-09-09
+Subject: RE: Redemption instruction — Kestrel Point — ACKNOWLEDGED
+
+We acknowledge receipt of the redemption instruction for $1,164,000
+from Brindlewood Offshore Ltd effective 30 September 2026. The trade has been
+queued for the September dealing cycle. Settlement confirmation will follow
+after month-end NAV is struck.
+
+Lanyard Fund Services (Cayman) Ltd — Transfer Agency

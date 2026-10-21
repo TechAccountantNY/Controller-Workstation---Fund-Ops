@@ -1,0 +1,110 @@
+msg_id,filename,sender,sender_domain,to,sent,subject,attachment,body,category,counterparty,relevance,classification_rule
+01,01_2026-09-30_caldera-ridge-capital-september-2026-sta.txt,reporting@calderaridge.example,calderaridge.example,operations@brindlewood.example,2026-09-30,Caldera Ridge Capital — September 2026 statement,caldera-ridge-sept2026.csv,"September statement attached. Final figures, audited internally.
+
+Caldera Ridge Capital Investor Relations",manager_statement,Caldera Ridge Capital,in_scope,manager.statement
+02,02_2026-09-30_tidewater-systematic-sep-26-monthly-file.txt,ops@tidewatersys.example,tidewatersys.example,operations@brindlewood.example,2026-09-30,Tidewater Systematic — Sep-26 monthly file,tidewater-sept2026.csv,"Monthly file attached per standing instruction.
+
+Tidewater Operations",manager_statement,Tidewater Systematic,in_scope,manager.statement
+03,03_2026-10-01_foxglove-partners-september-statement.txt,statements@foxglovepartners.example,foxglovepartners.example,operations@brindlewood.example,2026-10-01,Foxglove Partners September statement,foxglove-sept2026.xlsx,"Attached. Regards,
+Foxglove Fund Accounting",manager_statement,Foxglove Partners,in_scope,manager.statement
+04,04_2026-09-30_harrowgate-credit-opportunities-septembe.txt,ir@harrowgatecredit.example,harrowgatecredit.example,operations@brindlewood.example,2026-09-30,Harrowgate Credit Opportunities — September figures,,"Team,
+
+September figures for the Brindlewood sleeve, final:
+
+Opening NAV: $8,856,000
+Net return: 1.12%
+Closing NAV: $8,955,187
+Management fee accrued: $9,277
+Incentive fee accrued: $14,878 (15% of monthly net gain)
+
+Formal statement to follow from our administrator.
+
+Harrowgate IR",manager_statement,Harrowgate Credit Opportunities,in_scope,manager.statement
+05,05_2026-10-01_pell-and-marsh-quant-sep-2026-estimate-f.txt,reporting@pellmarsh.example,pellmarsh.example,operations@brindlewood.example,2026-10-01,Pell & Marsh Quant — Sep 2026 estimate (final),,"September final for your records:
+
+Opening NAV $7,548,000 | Net return -0.41% | Closing NAV $7,517,053
+Management fee $7,846 | Incentive fee $0 (no accrual, negative month)
+
+Pell & Marsh Investor Services",manager_statement,Pell & Marsh Quant,in_scope,manager.statement
+06,06_2026-10-01_stonebow-september-statement-system-gene.txt,ops@stonebowgm.example,stonebowgm.example,operations@brindlewood.example,2026-10-01,Stonebow September statement (system generated),stonebow-sept2026.txt,Statement attached from our reporting system.,manager_statement,Stonebow Global Macro,in_scope,manager.statement
+07,07_2026-09-30_juniper-lane-sep26-pack.txt,accounts@juniperlane.example,juniperlane.example,operations@brindlewood.example,2026-09-30,Juniper Lane — Sep26 pack,juniper-lane-sept2026.xlsx,"Pack attached.
+JLC Accounts",manager_statement,Juniper Lane Capital,in_scope,manager.statement
+08,08_2026-09-02_wrenfield-capital-management-august-2026.txt,clientreporting@wrenfieldcm.example,wrenfieldcm.example,operations@brindlewood.example,2026-09-02,Wrenfield Capital Management — August 2026 final statement,,"August 2026 final for the Brindlewood sleeve:
+
+Opening NAV $8,684,263 | Net return 0.40% | Closing NAV $8,719,000
+
+Please note our reporting team is transitioning systems this quarter.
+
+Wrenfield Client Reporting",manager_statement,Wrenfield Capital Management,in_scope,manager.statement
+09,09_2026-09-01_brindlewood-august-2026-final-nav-packag.txt,navteam@lanyardfs.example,lanyardfs.example,operations@brindlewood.example,2026-09-01,Brindlewood — August 2026 Final NAV Package,august-2026-close-package/,"Final August 2026 NAV package attached: sleeve detail, vehicle NAVs, look-through, investor register.
+
+Lanyard Fund Services (Cayman) Ltd",prior_close_package,Lanyard Fund Services (Cayman) Ltd,in_scope,admin.nav_package
+10,10_2026-09-03_question-from-client-brindlewood-offshor.txt,j.calloway@rowanhill.example,rowanhill.example,operations@brindlewood.example,2026-09-03,Question from client — Brindlewood Offshore,,"Hi team,
+
+Two of our clients are invested in Brindlewood Offshore Ltd. Could you confirm
+(1) the August 2026 net return for the vehicle and (2) current redemption terms?
+
+Thanks,
+Jess Calloway, Rowan Hill Advisors",investor_query,Rowan Hill Advisors,in_scope,investor.query
+11,11_2026-09-04_subscription-alderbrook-family-office-br.txt,d.whitmore@alderbrookfo.example,alderbrookfo.example,operations@brindlewood.example,2026-09-04,Subscription — Alderbrook Family Office — Brindlewood Partners LP,alderbrook-subscription-form.txt,"Please accept this instruction to subscribe $2,556,000 to Brindlewood
+Partners LP for the 15 September 2026 dealing date. Signed subscription
+agreement attached. Funds to follow by wire from our custodian.
+
+Dana Whitmore
+Alderbrook Family Office",subscription_instruction,Alderbrook Family Office,in_scope,capital.subscription
+12,12_2026-09-05_ledgerloop-ai-reconciliation-for-fund-ma.txt,sales@ledgerloop.example,ledgerloop.example,operations@brindlewood.example,2026-09-05,LedgerLoop — AI reconciliation for fund managers (demo?),,"Hi there! LedgerLoop automates NAV reconciliation with AI. 30-minute demo this week? — Taylor, SDR",vendor_solicitation,,noise,vendor.solicitation
+13,13_2026-09-08_redemption-instruction-kestrel-point-cli.txt,m.oakes@kestrelpoint.example,kestrelpoint.example,operations@brindlewood.example,2026-09-08,Redemption instruction — Kestrel Point clients — Brindlewood Offshore Ltd,,"On behalf of our underlying clients, please redeem $1,164,000 from
+Brindlewood Offshore Ltd effective 30 September 2026, per the 30-day notice
+provision. Proceeds to the custody account on file.
+
+Morgan Oakes, Kestrel Point Advisors",redemption_instruction,Kestrel Point Advisors,in_scope,capital.redemption
+14,14_2026-09-09_re-redemption-instruction-kestrel-point-.txt,transferagency@lanyardfs.example,lanyardfs.example,operations@brindlewood.example,2026-09-09,RE: Redemption instruction — Kestrel Point — ACKNOWLEDGED,,"We acknowledge receipt of the redemption instruction for $1,164,000
+from Brindlewood Offshore Ltd effective 30 September 2026. The trade has been
+queued for the September dealing cycle. Settlement confirmation will follow
+after month-end NAV is struck.
+
+Lanyard Fund Services (Cayman) Ltd — Transfer Agency",ta_acknowledgement,Lanyard Fund Services (Cayman) Ltd,in_scope,admin.ta_ack
+15,15_2026-09-10_harrowgate-mid-month-flash.txt,ir@harrowgatecredit.example,harrowgatecredit.example,operations@brindlewood.example,2026-09-10,Harrowgate — mid-month flash,,"Flash estimate for September MTD through the 9th: +0.52%. Formal figures at month end.
+Harrowgate IR",manager_flash,Harrowgate Credit Opportunities,informational,manager.flash
+16,16_2026-09-10_subscription-bellhaven-trust-brindlewood.txt,t.bellhaven@bellhaventrust.example,bellhaventrust.example,operations@brindlewood.example,2026-09-10,Subscription — Bellhaven Trust — Brindlewood Select LP,,"Please accept our subscription of $724,000 to Brindlewood Select LP for 15 September dealing. Wire follows this week.
+
+Bellhaven Trust",subscription_instruction,Bellhaven Trust,in_scope,capital.subscription
+17,17_2026-09-11_fy25-audit-outstanding-pbc-items-brindle.txt,pbc@whitlocksayre.example,whitlocksayre.example,operations@brindlewood.example,2026-09-11,FY25 audit — outstanding PBC items — Brindlewood Partners LP,,"Reminder on outstanding PBC items for the FY25 audit:
+ 1. Signed custody confirmations (2 of 4 received)
+ 2. Expense allocation memo, final version
+ 3. Management rep letter — draft circulated 22 Aug, awaiting comments
+Please advise timing. We are holding fieldwork slots for late October.
+
+Whitlock & Sayre LLP",auditor_request,Whitlock & Sayre LLP,in_scope,auditor.request
+18,18_2026-09-12_credit-advice-724-000-ref-bellhaven-trus.txt,wires@graniteharbor.example,graniteharbor.example,operations@brindlewood.example,2026-09-12,"CREDIT ADVICE — $724,000 — REF BELLHAVEN TRUST",,"CREDIT ADVICE
+Account: BRINDLEWOOD SELECT LP SUBSCRIPTION A/C
+Amount: $724,000
+Value date: 12 Sep 2026
+Originator: BELLHAVEN TRUST
+Reference: SELECT LP SUB 15SEP
+Granite Harbor Bank, N.A.",wire_credit,"Granite Harbor Bank, N.A.",in_scope,bank.credit_advice
+19,19_2026-09-15_office-move-access-cards-friday.txt,office@brindlewood.example,brindlewood.example,operations@brindlewood.example,2026-09-15,Office move — access cards Friday,,Reminder: we are on the 14th floor from Monday. Collect new access cards from reception Friday.,internal_admin,Brindlewood (internal),noise,internal.admin
+20,20_2026-09-16_pell-and-marsh-mid-month-note.txt,reporting@pellmarsh.example,pellmarsh.example,operations@brindlewood.example,2026-09-16,Pell & Marsh — mid-month note,,"MTD through 12 Sep approximately -0.1%, within normal range. Final at month end.
+P&M Investor Services",manager_flash,Pell & Marsh Quant,informational,manager.flash
+21,21_2026-09-17_monthly-account-analysis-statement-avail.txt,treasury@graniteharbor.example,graniteharbor.example,operations@brindlewood.example,2026-09-17,Monthly account analysis statement available,,Your September account analysis statement is available in the portal. No action required.,bank_notice,"Granite Harbor Bank, N.A.",informational,bank.notice
+22,22_2026-09-18_weekly-regulatory-briefing-marketing-rul.txt,briefings@fundscompliance.example,fundscompliance.example,operations@brindlewood.example,2026-09-18,"Weekly regulatory briefing — marketing rule, Form PF timing",,"This week: adviser marketing rule FAQs, Form PF timing update, offshore filing calendars. Read online.",regulatory_newsletter,,noise,newsletter
+23,23_2026-09-19_credit-advice-2-404-000-ref-alderbrook.txt,wires@graniteharbor.example,graniteharbor.example,operations@brindlewood.example,2026-09-19,"CREDIT ADVICE — $2,404,000 — REF ALDERBROOK",,"CREDIT ADVICE
+Account: BRINDLEWOOD PARTNERS LP SUBSCRIPTION A/C
+Amount: $2,404,000
+Value date: 19 Sep 2026
+Originator: ALDERBROOK FAMILY OFFICE / CUSTODIAN NOMINEE
+Reference: PARTNERS LP SUBSCRIPTION
+Granite Harbor Bank, N.A.",wire_credit,"Granite Harbor Bank, N.A.",in_scope,bank.credit_advice
+24,24_2026-09-22_stonebow-global-macro-q3-investor-letter.txt,letters@stonebowgm.example,stonebowgm.example,operations@brindlewood.example,2026-09-22,Stonebow Global Macro — Q3 investor letter,,"Please find our Q3 letter: positioning, rates view, and portfolio commentary. (Marketing material.)",manager_marketing,Stonebow Global Macro,noise,manager.marketing
+25,25_2026-09-23_september-close-calendar-estimates-due-2.txt,navteam@lanyardfs.example,lanyardfs.example,operations@brindlewood.example,2026-09-23,September close calendar — estimates due 2 October,,"September close calendar:
+ - Manager statements due to us: 1 October
+ - Vehicle-level estimates published: 2 October
+ - Final NAV target: 14 October
+Please confirm September capital activity by 1 October.
+Lanyard Fund Services (Cayman) Ltd",admin_calendar,Lanyard Fund Services (Cayman) Ltd,in_scope,admin.close_calendar
+26,26_2026-09-24_re-question-from-client-brindlewood-offs.txt,j.calloway@rowanhill.example,rowanhill.example,operations@brindlewood.example,2026-09-24,RE: Question from client — Brindlewood Offshore,,"Following up on my note of the 3rd — anything you can share? Clients are asking.
+Jess",investor_query,Jess,in_scope,investor.query
+27,27_2026-09-26_juniper-lane-operations-contact-change.txt,operations@juniperlane.example,juniperlane.example,operations@brindlewood.example,2026-09-26,Juniper Lane — operations contact change,,"From 1 October, statement queries go to accounts@juniperlane.example (this mailbox retires). No other changes.",manager_admin_notice,Juniper Lane Capital,informational,manager.contact_change
+28,28_2026-10-01_september-estimate-where-are-we.txt,t.reeve@brindlewood.example,brindlewood.example,operations@brindlewood.example,2026-10-01,September estimate — where are we?,,"Team — the September estimate goes to investors tomorrow. Where are we?
+What's in, what's missing, anything I should know before it goes out?
+T.",internal_request,Brindlewood (internal),in_scope,internal.request

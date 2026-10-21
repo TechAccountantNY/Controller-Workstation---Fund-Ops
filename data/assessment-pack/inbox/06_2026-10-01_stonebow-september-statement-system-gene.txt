@@ -1,0 +1,7 @@
+From: ops@stonebowgm.example
+To: operations@brindlewood.example
+Date: 2026-10-01
+Subject: Stonebow September statement (system generated)
+Attachment: stonebow-sept2026.txt
+
+Statement attached from our reporting system.

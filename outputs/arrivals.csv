@@ -1,0 +1,18 @@
+item,kind,counterparty,expected_by,received_on,document,status,quality
+Sep-2026 statement — Caldera Ridge Capital,manager_statement,Caldera Ridge Capital,2026-10-01,2026-09-30,caldera-ridge-sept2026.csv,RECEIVED,"csv, high confidence; final, audited internally"
+Sep-2026 statement — Tidewater Systematic,manager_statement,Tidewater Systematic,2026-10-01,2026-09-30,tidewater-sept2026.csv,RECEIVED,"csv, high confidence"
+Sep-2026 statement — Foxglove Partners,manager_statement,Foxglove Partners,2026-10-01,2026-10-01,foxglove-sept2026.xlsx,RECEIVED,"xlsx, high confidence; confidential"
+Sep-2026 statement — Harrowgate Credit Opportunities,manager_statement,Harrowgate Credit Opportunities,2026-10-01,2026-09-30,04_2026-09-30_harrowgate-credit-opportunities-septembe.txt,RECEIVED,"email_body, medium confidence; final"
+Sep-2026 statement — Pell & Marsh Quant,manager_statement,Pell & Marsh Quant,2026-10-01,2026-10-01,05_2026-10-01_pell-and-marsh-quant-sep-2026-estimate-f.txt,RECEIVED,"email_body, medium confidence; final, estimate"
+Sep-2026 statement — Stonebow Global Macro,manager_statement,Stonebow Global Macro,2026-10-01,2026-10-01,stonebow-sept2026.txt,RECEIVED,"fixed_width_text, medium confidence; system generated"
+Sep-2026 statement — Juniper Lane Capital,manager_statement,Juniper Lane Capital,2026-10-01,2026-09-30,juniper-lane-sept2026.xlsx,RECEIVED,"xlsx, high confidence; internal use"
+Sep-2026 statement — Wrenfield Capital Management,manager_statement,Wrenfield Capital Management,2026-10-01,,,OUTSTANDING,
+Sep-2026 valuation — Brindlewood Select LP direct co-investment in Caldera Ridge Capital,direct_valuation,Caldera Ridge Capital,2026-10-01,,,OUTSTANDING — no document in pack,
+Sep-2026 bank statement — master cash,bank_statement,"Granite Harbor Bank, N.A.",2026-10-01,,,AVAILABLE IN PORTAL — not retrieved,notice 17 Sep
+"TA acknowledgement — subscription Alderbrook Family Office Brindlewood Partners LP $2,556,000",ta_acknowledgement,Lanyard Fund Services (Cayman) Ltd,2026-09-15,,,OUTSTANDING,
+"Funds — Alderbrook Family Office → Brindlewood Partners LP $2,556,000",wire,Alderbrook Family Office,2026-09-15,2026-09-19,23_2026-09-19_credit-advice-2-404-000-ref-alderbrook.txt,RECEIVED — DOES NOT MATCH,"$2,404,000 value 19 Sep"
+"TA acknowledgement — redemption Kestrel Point Advisors (clients) Brindlewood Offshore Ltd $1,164,000",ta_acknowledgement,Lanyard Fund Services (Cayman) Ltd,2026-09-30,2026-09-09,14_2026-09-09_re-redemption-instruction-kestrel-point-.txt,RECEIVED,
+"TA acknowledgement — subscription Bellhaven Trust Brindlewood Select LP $724,000",ta_acknowledgement,Lanyard Fund Services (Cayman) Ltd,2026-09-15,,,OUTSTANDING,
+"Funds — Bellhaven Trust → Brindlewood Select LP $724,000",wire,Bellhaven Trust,2026-09-15,2026-09-12,18_2026-09-12_credit-advice-724-000-ref-bellhaven-trus.txt,RECEIVED — MATCHES,"$724,000 value 12 Sep"
+Capital activity confirmation to Lanyard,our_deliverable,Lanyard Fund Services (Cayman) Ltd,2026-10-01,,,DUE TODAY — not sent,
+Reply — Rowan Hill Advisors: Question from client — Brindlewood Offshore,our_deliverable,Rowan Hill Advisors,2026-09-03,,10_2026-09-03_question-from-client-brindlewood-offshor.txt,OVERDUE — not sent,

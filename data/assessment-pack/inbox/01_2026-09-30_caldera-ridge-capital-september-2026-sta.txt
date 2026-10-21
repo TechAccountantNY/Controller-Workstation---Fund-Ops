@@ -1,0 +1,9 @@
+From: reporting@calderaridge.example
+To: operations@brindlewood.example
+Date: 2026-09-30
+Subject: Caldera Ridge Capital — September 2026 statement
+Attachment: caldera-ridge-sept2026.csv
+
+September statement attached. Final figures, audited internally.
+
+Caldera Ridge Capital Investor Relations

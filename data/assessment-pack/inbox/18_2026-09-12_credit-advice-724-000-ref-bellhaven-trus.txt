@@ -1,0 +1,12 @@
+From: wires@graniteharbor.example
+To: operations@brindlewood.example
+Date: 2026-09-12
+Subject: CREDIT ADVICE — $724,000 — REF BELLHAVEN TRUST
+
+CREDIT ADVICE
+Account: BRINDLEWOOD SELECT LP SUBSCRIPTION A/C
+Amount: $724,000
+Value date: 12 Sep 2026
+Originator: BELLHAVEN TRUST
+Reference: SELECT LP SUB 15SEP
+Granite Harbor Bank, N.A.

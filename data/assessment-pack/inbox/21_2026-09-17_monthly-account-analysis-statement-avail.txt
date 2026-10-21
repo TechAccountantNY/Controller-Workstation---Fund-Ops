@@ -1,0 +1,6 @@
+From: treasury@graniteharbor.example
+To: operations@brindlewood.example
+Date: 2026-09-17
+Subject: Monthly account analysis statement available
+
+Your September account analysis statement is available in the portal. No action required.

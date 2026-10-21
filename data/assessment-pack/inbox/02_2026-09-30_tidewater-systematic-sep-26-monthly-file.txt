@@ -1,0 +1,9 @@
+From: ops@tidewatersys.example
+To: operations@brindlewood.example
+Date: 2026-09-30
+Subject: Tidewater Systematic — Sep-26 monthly file
+Attachment: tidewater-sept2026.csv
+
+Monthly file attached per standing instruction.
+
+Tidewater Operations

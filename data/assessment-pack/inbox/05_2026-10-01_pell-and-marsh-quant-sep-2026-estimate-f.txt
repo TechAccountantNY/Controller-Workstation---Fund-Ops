@@ -1,0 +1,11 @@
+From: reporting@pellmarsh.example
+To: operations@brindlewood.example
+Date: 2026-10-01
+Subject: Pell & Marsh Quant — Sep 2026 estimate (final)
+
+September final for your records:
+
+Opening NAV $7,548,000 | Net return -0.41% | Closing NAV $7,517,053
+Management fee $7,846 | Incentive fee $0 (no accrual, negative month)
+
+Pell & Marsh Investor Services

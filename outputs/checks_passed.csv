@@ -1,0 +1,70 @@
+check,subject,detail,evidence
+prior_close.master_total,Master Fund,"Σ sleeves 77,494,000 + cash 2,027,000 = 79,521,000 = package total 79,521,000",august-2026-close-package/master-sleeves-aug2026.csv
+prior_close.sleeve_arithmetic,Caldera Ridge Capital,"13,344,000 × (1 + 1.55%) = 13,550,832 ≈ 13,551,000 (Δ 168, within $1,000 rounding)",august-2026-close-package/master-sleeves-aug2026.csv
+prior_close.sleeve_arithmetic,Tidewater Systematic,"11,700,000 × (1 + 1.43%) = 11,867,310 ≈ 11,867,000 (Δ -310, within $1,000 rounding)",august-2026-close-package/master-sleeves-aug2026.csv
+prior_close.sleeve_arithmetic,Foxglove Partners,"8,852,000 × (1 + 1.13%) = 8,952,028 ≈ 8,952,000 (Δ -28, within $1,000 rounding)",august-2026-close-package/master-sleeves-aug2026.csv
+prior_close.sleeve_arithmetic,Harrowgate Credit Opportunities,"8,717,000 × (1 + 1.6%) = 8,856,472 ≈ 8,856,000 (Δ -472, within $1,000 rounding)",august-2026-close-package/master-sleeves-aug2026.csv
+prior_close.sleeve_arithmetic,Pell & Marsh Quant,"7,515,000 × (1 + 0.43%) = 7,547,314 ≈ 7,548,000 (Δ 686, within $1,000 rounding)",august-2026-close-package/master-sleeves-aug2026.csv
+prior_close.sleeve_arithmetic,Stonebow Global Macro,"10,961,000 × (1 + -0.62%) = 10,893,042 ≈ 10,893,000 (Δ -42, within $1,000 rounding)",august-2026-close-package/master-sleeves-aug2026.csv
+prior_close.sleeve_arithmetic,Juniper Lane Capital,"7,107,000 × (1 + 0.02%) = 7,108,421 ≈ 7,108,000 (Δ -421, within $1,000 rounding)",august-2026-close-package/master-sleeves-aug2026.csv
+prior_close.sleeve_arithmetic,Wrenfield Capital Management,"8,672,000 × (1 + 0.54%) = 8,718,829 ≈ 8,719,000 (Δ 171, within $1,000 rounding)",august-2026-close-package/master-sleeves-aug2026.csv
+prior_close.vehicle_ownership,Brindlewood Partners LP,"55% × 79,521,000 = 43,736,550 ≈ master interest 43,737,000",august-2026-close-package/vehicles-aug2026.csv
+prior_close.vehicle_components,Brindlewood Partners LP,"master 43,737,000 + direct 0 + cash 477,000 = 44,214,000 = vehicle NAV 44,214,000",august-2026-close-package/vehicles-aug2026.csv
+prior_close.vehicle_ownership,Brindlewood Offshore Ltd,"30% × 79,521,000 = 23,856,300 ≈ master interest 23,856,000",august-2026-close-package/vehicles-aug2026.csv
+prior_close.vehicle_components,Brindlewood Offshore Ltd,"master 23,856,000 + direct 0 + cash 311,000 = 24,167,000 = vehicle NAV 24,167,000",august-2026-close-package/vehicles-aug2026.csv
+prior_close.vehicle_ownership,Brindlewood Select LP,"15% × 79,521,000 = 11,928,150 ≈ master interest 11,928,000",august-2026-close-package/vehicles-aug2026.csv
+prior_close.vehicle_components,Brindlewood Select LP,"master 11,928,000 + direct 3,113,000 + cash 199,000 = 15,240,000 = vehicle NAV 15,240,000",august-2026-close-package/vehicles-aug2026.csv
+prior_close.vehicles_sum_to_master,Complex,"Σ vehicles' master interest 79,521,000 = master total 79,521,000",august-2026-close-package/vehicles-aug2026.csv | august-2026-close-package/master-sleeves-aug2026.csv
+prior_close.lookthrough,Brindlewood Partners LP,"Σ look-through via master 42,621,700 = 55% × Σ sleeves 77,494,000 = 42,621,700",august-2026-close-package/lookthrough-aug2026.csv
+prior_close.lookthrough,Brindlewood Offshore Ltd,"Σ look-through via master 23,248,200 = 30% × Σ sleeves 77,494,000 = 23,248,200",august-2026-close-package/lookthrough-aug2026.csv
+prior_close.lookthrough,Brindlewood Select LP,"Σ look-through via master 11,624,100 = 15% × Σ sleeves 77,494,000 = 11,624,100",august-2026-close-package/lookthrough-aug2026.csv
+prior_close.direct_coinvest,Brindlewood Select LP,"direct co-investment in Caldera Ridge Capital 3,113,000 = vehicle direct investments 3,113,000",august-2026-close-package/lookthrough-aug2026.csv | august-2026-close-package/vehicles-aug2026.csv
+prior_close.hwm_agrees_with_fee_schedule,Caldera Ridge Capital,"HWM 12,873,000 in package = 12,873,000 in fee schedule",august-2026-close-package/master-sleeves-aug2026.csv | fee-schedule.md
+prior_close.hwm_agrees_with_fee_schedule,Tidewater Systematic,"HWM 11,274,000 in package = 11,274,000 in fee schedule",august-2026-close-package/master-sleeves-aug2026.csv | fee-schedule.md
+prior_close.hwm_agrees_with_fee_schedule,Foxglove Partners,"HWM 8,504,000 in package = 8,504,000 in fee schedule",august-2026-close-package/master-sleeves-aug2026.csv | fee-schedule.md
+prior_close.hwm_agrees_with_fee_schedule,Harrowgate Credit Opportunities,"HWM 9,210,000 in package = 9,210,000 in fee schedule",august-2026-close-package/master-sleeves-aug2026.csv | fee-schedule.md
+prior_close.hwm_agrees_with_fee_schedule,Pell & Marsh Quant,"HWM 7,171,000 in package = 7,171,000 in fee schedule",august-2026-close-package/master-sleeves-aug2026.csv | fee-schedule.md
+prior_close.hwm_agrees_with_fee_schedule,Stonebow Global Macro,"HWM 10,348,000 in package = 10,348,000 in fee schedule",august-2026-close-package/master-sleeves-aug2026.csv | fee-schedule.md
+prior_close.hwm_agrees_with_fee_schedule,Juniper Lane Capital,"HWM 6,753,000 in package = 6,753,000 in fee schedule",august-2026-close-package/master-sleeves-aug2026.csv | fee-schedule.md
+prior_close.hwm_agrees_with_fee_schedule,Wrenfield Capital Management,"HWM 8,283,000 in package = 8,283,000 in fee schedule",august-2026-close-package/master-sleeves-aug2026.csv | fee-schedule.md
+prior_close.manager_aug_closing_agrees,Wrenfield Capital Management,"manager August closing 8,719,000 = package 8,719,000",08_2026-09-02_wrenfield-capital-management-august-2026.txt | august-2026-close-package/master-sleeves-aug2026.csv
+statement.received_by_due_date,Caldera Ridge Capital,received 30 Sep (due 01 Oct) via csv,caldera-ridge-sept2026.csv
+statement.opening_ties_to_prior_close,Caldera Ridge Capital,"opening 13,551,000 = August close 13,551,000",caldera-ridge-sept2026.csv | august-2026-close-package/master-sleeves-aug2026.csv
+statement.arithmetic,Caldera Ridge Capital,"13,551,000 × (1 + 1.42%) = 13,743,424.2 ≈ closing 13,743,424 [return read as percent_string from '1.42%']",caldera-ridge-sept2026.csv
+statement.management_fee_per_schedule,Caldera Ridge Capital,"reported 14,216; schedule avg(13,551,000, 13,743,424) = 13,647,212.0 × 1.25% / 12 = 14,216",caldera-ridge-sept2026.csv | fee-schedule.md
+statement.incentive_fee_per_schedule,Caldera Ridge Capital,"reported 28,864; schedule 15% × (closing 13,743,424 − max(opening 13,551,000, HWM 12,873,000)) = 15% × 192,424 = 28,864",caldera-ridge-sept2026.csv | fee-schedule.md
+statement.received_by_due_date,Tidewater Systematic,received 30 Sep (due 01 Oct) via csv,tidewater-sept2026.csv
+statement.opening_ties_to_prior_close,Tidewater Systematic,"opening 11,867,000 = August close 11,867,000",tidewater-sept2026.csv | august-2026-close-package/master-sleeves-aug2026.csv
+statement.arithmetic,Tidewater Systematic,"11,867,000 × (1 + 2.07%) = 12,112,646.9 ≈ closing 12,112,647 [return read as decimal from '0.0207']",tidewater-sept2026.csv
+statement.management_fee_per_schedule,Tidewater Systematic,"reported 12,489; schedule avg(11,867,000, 12,112,647) = 11,989,823.5 × 1.25% / 12 = 12,489",tidewater-sept2026.csv | fee-schedule.md
+statement.incentive_fee_per_schedule,Tidewater Systematic,"reported 36,847; schedule 15% × (closing 12,112,647 − max(opening 11,867,000, HWM 11,274,000)) = 15% × 245,647 = 36,847",tidewater-sept2026.csv | fee-schedule.md
+statement.received_by_due_date,Foxglove Partners,received 01 Oct (due 01 Oct) via xlsx,foxglove-sept2026.xlsx
+statement.opening_ties_to_prior_close,Foxglove Partners,"opening 8,952,000 = August close 8,952,000",foxglove-sept2026.xlsx | august-2026-close-package/master-sleeves-aug2026.csv
+statement.arithmetic,Foxglove Partners,"8,952,000 × (1 + 2.04%) = 9,134,620.8 ≈ closing 9,134,621 [return read as percent from '2.04']",foxglove-sept2026.xlsx
+statement.incentive_fee_per_schedule,Foxglove Partners,"reported 27,393; schedule 15% × (closing 9,134,621 − max(opening 8,952,000, HWM 8,504,000)) = 15% × 182,621 = 27,393",foxglove-sept2026.xlsx | fee-schedule.md
+statement.received_by_due_date,Harrowgate Credit Opportunities,received 30 Sep (due 01 Oct) via email_body,04_2026-09-30_harrowgate-credit-opportunities-septembe.txt
+statement.opening_ties_to_prior_close,Harrowgate Credit Opportunities,"opening 8,856,000 = August close 8,856,000",04_2026-09-30_harrowgate-credit-opportunities-septembe.txt | august-2026-close-package/master-sleeves-aug2026.csv
+statement.arithmetic,Harrowgate Credit Opportunities,"8,856,000 × (1 + 1.12%) = 8,955,187.2 ≈ closing 8,955,187 [return read as percent_string from '1.12%']",04_2026-09-30_harrowgate-credit-opportunities-septembe.txt
+statement.management_fee_per_schedule,Harrowgate Credit Opportunities,"reported 9,277; schedule avg(8,856,000, 8,955,187) = 8,905,593.5 × 1.25% / 12 = 9,277",04_2026-09-30_harrowgate-credit-opportunities-septembe.txt | fee-schedule.md
+statement.received_by_due_date,Pell & Marsh Quant,received 01 Oct (due 01 Oct) via email_body,05_2026-10-01_pell-and-marsh-quant-sep-2026-estimate-f.txt
+statement.opening_ties_to_prior_close,Pell & Marsh Quant,"opening 7,548,000 = August close 7,548,000",05_2026-10-01_pell-and-marsh-quant-sep-2026-estimate-f.txt | august-2026-close-package/master-sleeves-aug2026.csv
+statement.arithmetic,Pell & Marsh Quant,"7,548,000 × (1 + -0.41%) = 7,517,053.2 ≈ closing 7,517,053 [return read as percent_string from '-0.41%']",05_2026-10-01_pell-and-marsh-quant-sep-2026-estimate-f.txt
+statement.management_fee_per_schedule,Pell & Marsh Quant,"reported 7,846; schedule avg(7,548,000, 7,517,053) = 7,532,526.5 × 1.25% / 12 = 7,846",05_2026-10-01_pell-and-marsh-quant-sep-2026-estimate-f.txt | fee-schedule.md
+statement.incentive_fee_per_schedule,Pell & Marsh Quant,"reported 0; schedule closing 7,517,053 − max(opening, HWM) 7,548,000 ≤ 0 → no net new profit, no accrual",05_2026-10-01_pell-and-marsh-quant-sep-2026-estimate-f.txt | fee-schedule.md
+statement.received_by_due_date,Stonebow Global Macro,received 01 Oct (due 01 Oct) via fixed_width_text,stonebow-sept2026.txt
+statement.arithmetic,Stonebow Global Macro,"10,708,000 × (1 + 2.27%) = 10,951,071.6 ≈ closing 10,951,072 [return read as percent_string from '2.27 PCT']",stonebow-sept2026.txt
+statement.management_fee_per_schedule,Stonebow Global Macro,"reported 11,281; schedule avg(10,708,000, 10,951,072) = 10,829,536.0 × 1.25% / 12 = 11,281",stonebow-sept2026.txt | fee-schedule.md
+statement.incentive_fee_per_schedule,Stonebow Global Macro,"reported 36,461; schedule 15% × (closing 10,951,072 − max(opening 10,708,000, HWM 10,348,000)) = 15% × 243,072 = 36,461",stonebow-sept2026.txt | fee-schedule.md
+statement.received_by_due_date,Juniper Lane Capital,received 30 Sep (due 01 Oct) via xlsx,juniper-lane-sept2026.xlsx
+statement.opening_ties_to_prior_close,Juniper Lane Capital,"opening 7,108,000 = August close 7,108,000",juniper-lane-sept2026.xlsx | august-2026-close-package/master-sleeves-aug2026.csv
+statement.arithmetic,Juniper Lane Capital,"7,108,000 × (1 + 0.62%) = 7,152,069.6 ≈ closing 7,152,070 [return read as percent from '0.62']",juniper-lane-sept2026.xlsx
+statement.management_fee_per_schedule,Juniper Lane Capital,"reported 7,427; schedule avg(7,108,000, 7,152,070) = 7,130,035.0 × 1.25% / 12 = 7,427",juniper-lane-sept2026.xlsx | fee-schedule.md
+statement.incentive_fee_per_schedule,Juniper Lane Capital,"reported 6,610; schedule 15% × (closing 7,152,070 − max(opening 7,108,000, HWM 6,753,000)) = 15% × 44,070 = 6,610",juniper-lane-sept2026.xlsx | fee-schedule.md
+capital.signed_document_present,Alderbrook Family Office → Brindlewood Partners LP,"signed form alderbrook-subscription-form.txt: signed form: amount $2,556,000, dealing 2026-09-15, D. Whitmore, 04 Sep 2026",11_2026-09-04_subscription-alderbrook-family-office-br.txt | alderbrook-subscription-form.txt
+capital.investor_known,Alderbrook Family Office → Brindlewood Partners LP,"existing investor in Brindlewood Partners LP (Aug balance $6,240,000); additional subscription",august-2026-close-package/investor-register-aug2026.csv
+capital.redemption_within_balance,Kestrel Point Advisors (clients) ← Brindlewood Offshore Ltd,"$1,164,000 ≤ August balance $5,958,000 (19.5% partial redemption)",13_2026-09-08_redemption-instruction-kestrel-point-cli.txt | august-2026-close-package/investor-register-aug2026.csv
+capital.wire_matches_instruction,Bellhaven Trust → Brindlewood Select LP,"wire $724,000 value 12 Sep = instruction $724,000; ref 'SELECT LP SUB 15SEP'",16_2026-09-10_subscription-bellhaven-trust-brindlewood.txt | 18_2026-09-12_credit-advice-724-000-ref-bellhaven-trus.txt
+capital.funds_before_dealing_date,Bellhaven Trust → Brindlewood Select LP,value date 12 Sep ≤ dealing date 15 Sep,18_2026-09-12_credit-advice-724-000-ref-bellhaven-trus.txt
+capital.investor_known,Bellhaven Trust → Brindlewood Select LP,"existing investor in Brindlewood Select LP (Aug balance $2,089,000); additional subscription",august-2026-close-package/investor-register-aug2026.csv
+statement.flash_direction_consistent,Harrowgate Credit Opportunities,"mid-month flash +0.52% (10 Sep); final +1.12% — same sign, plausible magnitude",15_2026-09-10_harrowgate-mid-month-flash.txt | 04_2026-09-30_harrowgate-credit-opportunities-septembe.txt
+statement.flash_direction_consistent,Pell & Marsh Quant,"mid-month flash -0.1% (16 Sep); final -0.41% — same sign, plausible magnitude",20_2026-09-16_pell-and-marsh-mid-month-note.txt | 05_2026-10-01_pell-and-marsh-quant-sep-2026-estimate-f.txt

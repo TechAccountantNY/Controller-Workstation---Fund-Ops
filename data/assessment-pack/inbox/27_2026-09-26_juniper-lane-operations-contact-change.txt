@@ -1,0 +1,6 @@
+From: operations@juniperlane.example
+To: operations@brindlewood.example
+Date: 2026-09-26
+Subject: Juniper Lane — operations contact change
+
+From 1 October, statement queries go to accounts@juniperlane.example (this mailbox retires). No other changes.

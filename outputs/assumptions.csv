@@ -1,0 +1,9 @@
+key,statement,reason
+missing_statement_policy,carry_flat,No September figures exist for the sleeve; prior close is the last audited-by-admin number.
+direct_coinvest_policy,sleeve_return_proxy,The co-investment is in the same manager/strategy; the sleeve return is the best available proxy.
+stonebow_policy,reported_closing,Manager's own closing figure is the conservative (lower) of the two candidates until the opening-balance break is explained.
+master_cash_policy,carry_flat,No master bank statement is in the pack; the Granite Harbor analysis statement was not retrieved.
+subscription_cash_policy,hold_in_vehicle_cash,No evidence of a sweep to master; mid-month equalisation would need daily NAVs the pack doesn't contain.
+pnl_allocation_basis,prior_close_ownership,No capital moved at master level during the month under the policies above.
+admin_fee_accrual,True,"Fee schedule: $4,500 per vehicle per month, flat."
+kestrel_redemption_scenario,deferred,8 Sep notice for 30 Sep is 22 days against a 30-day requirement; processing needs a documented waiver.

@@ -1,0 +1,11 @@
+line,amount,basis
+Investments in sleeves — August close,77494000.0,"Σ sleeves, Lanyard August package"
+Master cash & equivalents — August close,2027000.0,Lanyard August package
+Master NAV — August close,79521000.0,ties to package total
+Sleeve P&L — September (estimate),791074.0,Σ sleeve estimate NAV − August close (see sleeve table for basis per sleeve)
+Master cash movement — September,0.0,POLICY carry_flat: no bank statement in pack
+Capital flows at master level — September,0.0,POLICY hold_in_vehicle_cash: subscriptions held in vehicle cash; redemption scenario applied at vehicle level
+Master NAV — September estimate,80312074.0,arithmetic
+  of which on final/received statements,60642002.0,"sleeves with a statement that ties internally and to prior close, plus cash"
+  of which disputed or assumed,19670072.0,Stonebow Global Macro: statement (disputed); Wrenfield Capital Management: assumption
+Upside if disputed items resolve as alternatives,189199.09999999963,Σ (alt − estimate) where an alternative exists

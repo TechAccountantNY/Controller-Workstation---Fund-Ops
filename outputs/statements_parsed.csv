@@ -1,0 +1,9 @@
+sleeve,period,opening_nav,return_pct,closing_nav,management_fee,incentive_fee,source_doc,received,extraction_method,confidence,return_raw,return_unit_inferred,notes,status_label
+Caldera Ridge Capital,Sep-2026,13551000.0,1.42,13743424.0,14216.0,28864.0,caldera-ridge-sept2026.csv,2026-09-30,csv,high,1.42%,percent_string,,"final, audited internally"
+Tidewater Systematic,Sep-2026,11867000.0,2.07,12112647.0,12489.0,36847.0,tidewater-sept2026.csv,2026-09-30,csv,high,0.0207,decimal,,
+Foxglove Partners,Sep-2026,8952000.0,2.04,9134621.0,28546.0,27393.0,foxglove-sept2026.xlsx,2026-10-01,xlsx,high,2.04,percent,"Mgmt fee 1.25% computed on closing NAV, quarterly rate",confidential
+Harrowgate Credit Opportunities,Sep-2026,8856000.0,1.12,8955187.0,9277.0,14878.0,04_2026-09-30_harrowgate-credit-opportunities-septembe.txt,2026-09-30,email_body,medium,1.12%,percent_string,15% of monthly net gain; Formal statement to follow from our administrator,final
+Pell & Marsh Quant,Sep-2026,7548000.0,-0.41,7517053.0,7846.0,0.0,05_2026-10-01_pell-and-marsh-quant-sep-2026-estimate-f.txt,2026-10-01,email_body,medium,-0.41%,percent_string,"no accrual, negative month","final, estimate"
+Stonebow Global Macro,Sep-2026,10708000.0,2.27,10951072.0,11281.0,36461.0,stonebow-sept2026.txt,2026-10-01,fixed_width_text,medium,2.27 PCT,percent_string,THIS DOCUMENT WAS PRODUCED BY AUTOMATED RENDERING TABLES MAY NOT ALIGN CONTACT OPS@STONEBOWGM.EXAMPLE,system generated
+Juniper Lane Capital,Sep-2026,7108000.0,0.62,7152070.0,7427.0,6610.0,juniper-lane-sept2026.xlsx,2026-09-30,xlsx,high,0.62,percent,,internal use
+Wrenfield Capital Management,Aug-2026,8684263.0,0.4,8719000.0,,,08_2026-09-02_wrenfield-capital-management-august-2026.txt,2026-09-02,email_body,medium,0.40%,percent_string,,final

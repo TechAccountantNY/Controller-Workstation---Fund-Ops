@@ -1,0 +1,6 @@
+From: sales@ledgerloop.example
+To: operations@brindlewood.example
+Date: 2026-09-05
+Subject: LedgerLoop — AI reconciliation for fund managers (demo?)
+
+Hi there! LedgerLoop automates NAV reconciliation with AI. 30-minute demo this week? — Taylor, SDR

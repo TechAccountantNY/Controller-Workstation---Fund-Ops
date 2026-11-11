@@ -1,6 +1,6 @@
 # Controller Workstation — Fund Ops module
 
-**Equi take-home · MD, Agentic Fund Finance & Legal · Dennis Convery**
+**Client take-home · MD, Agentic Fund Finance & Legal · Dennis Convery**
 
 One month of a fund-operations inbox for the (fabricated) Brindlewood complex — three feeders, one master, eight managers — ingested, tied out, rolled forward and triaged, with every judgment call left to a person and recorded.
 
